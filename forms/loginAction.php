@@ -59,7 +59,7 @@ $_SESSION['auth']=false;
                        ?>
                     <script rel="stylesheet" src="../cdnjs/sweetalert.min.js"></script>
                     <script>
-                            swal("Connecté à l'espace étudiant avec Success","Clique pour continuer","success");
+                            swal("Connecté à l'espace des étudiant avec Success","Clique pour continuer","success");
                         
                     </script>
                     <?php
