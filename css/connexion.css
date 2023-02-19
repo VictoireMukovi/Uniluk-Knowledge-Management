@@ -1,0 +1,40 @@
+
+form{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-left: 37%;
+}
+.btn{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    width: 10vw;
+    right: 16%;
+    position: relative;
+}
+.col-10{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    width: 30vw;
+}
+button{
+   background: none; 
+}
+#btnNav{
+    margin: 0;
+    right: -80px;
+    width: 15vw;
+}
+input,p{
+    text-align: center;
+}
+.form-label{
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}

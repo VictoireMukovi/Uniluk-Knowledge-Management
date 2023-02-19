@@ -1,0 +1,79 @@
+/* mon css pour la page affichage */
+.row{
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    /* width: 40vw; */
+    left: 5px;
+    bottom: 60px;
+    
+}
+
+#Divbouton-docs{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    left: -250px;
+ 
+}
+#bouton-docs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    left: 12%;
+    top: -60px;
+    position: relative;
+    
+}
+#bouton-docs2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    left: 12%;
+    top: -75px;
+    position: relative;
+}
+#bouton-docs3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    left: 12%;
+    top: -90px;
+    position: relative;
+}
+.card{
+    left: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 8vh;
+    text-align: center;
+    border: none;
+}
+.card:hover{
+    background-color: rgb(190, 185, 185);
+    border: none;
+}
+.input-group{
+    display: flex;
+    justify-content: flex-end;
+    top: 60px;
+    right: 10px;
+}
+#search{
+    height: 6vh;
+    position: relative;
+}
+#btnNav{
+    margin: 0;
+    right: -80px;
+    width: 15vw;
+}
+a{
+    text-decoration: none;
+}
